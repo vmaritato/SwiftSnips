@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>IDECodeSnippetCompletionPrefix</key>
+    <string>codable</string>
+    <key>IDECodeSnippetCompletionScopes</key>
+    <array>
+        <string>All</string>
+    </array>
+    <key>IDECodeSnippetContents</key>
+    <string>struct ${1:Model}: Codable {
+    let ${2:property}: ${3:Type}
+}</string>
+    <key>IDECodeSnippetIdentifier</key>
+    <string>ext-codable</string>
+    <key>IDECodeSnippetLanguage</key>
+    <string>Xcode.SourceCodeLanguage.Swift</string>
+    <key>IDECodeSnippetSummary</key>
+    <string>Codable struct declaration</string>
+    <key>IDECodeSnippetTitle</key>
+    <string>Codable Struct</string>
+    <key>IDECodeSnippetUserSnippet</key>
+    <true/>
+    <key>IDECodeSnippetVersion</key>
+    <integer>2</integer>
+</dict>
+</plist> 

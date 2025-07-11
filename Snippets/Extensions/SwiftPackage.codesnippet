@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>IDECodeSnippetCompletionPrefix</key>
+    <string>spm</string>
+    <key>IDECodeSnippetCompletionScopes</key>
+    <array>
+        <string>All</string>
+    </array>
+    <key>IDECodeSnippetContents</key>
+    <string>.package(url: "${1:https://github.com/owner/repo}.git", from: "${2:1.0.0}")</string>
+    <key>IDECodeSnippetIdentifier</key>
+    <string>ext-swiftpm-package</string>
+    <key>IDECodeSnippetLanguage</key>
+    <string>Xcode.SourceCodeLanguage.Swift</string>
+    <key>IDECodeSnippetSummary</key>
+    <string>Swift Package Manager dependency declaration</string>
+    <key>IDECodeSnippetTitle</key>
+    <string>SwiftPM Package</string>
+    <key>IDECodeSnippetUserSnippet</key>
+    <true/>
+    <key>IDECodeSnippetVersion</key>
+    <integer>2</integer>
+</dict>
+</plist> 
