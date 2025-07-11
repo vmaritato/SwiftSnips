@@ -1,5 +1,15 @@
 # SwiftSnips
 
+<p align="left">
+  <a href="https://github.com/vmaritato/SwiftSnips/releases/tag/v1.0.0">
+    <img src="https://img.shields.io/github/v/release/vmaritato/SwiftSnips?label=version" alt="Version" />
+  </a>
+  <a href="https://github.com/vmaritato/SwiftSnips/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/vmaritato/SwiftSnips?color=blue" alt="License" />
+  </a>
+  <img src="https://img.shields.io/badge/made%20with-%E2%9D%A4%EF%B8%8F-red" alt="Made with Love" />
+</p>
+
 A curated collection of Xcode code snippets for Swift development. From UIKit to SwiftUI, architecture patterns to modern async code, each snippet is reusable, readable, and productive. The project is designed for iOS developers of all levels who want to improve their workflow by writing less, but better.
 
 ## ✨ Features
