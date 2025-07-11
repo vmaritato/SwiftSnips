@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>IDECodeSnippetCompletionPrefix</key>
+    <string>constraint</string>
+    <key>IDECodeSnippetCompletionScopes</key>
+    <array>
+        <string>All</string>
+    </array>
+    <key>IDECodeSnippetContents</key>
+    <string>NSLayoutConstraint.activate([
+    ${1:view1}.topAnchor.constraint(equalTo: ${2:view2}.topAnchor, constant: ${3:0}),
+    ${1:view1}.leadingAnchor.constraint(equalTo: ${2:view2}.leadingAnchor, constant: ${4:0}),
+    ${1:view1}.trailingAnchor.constraint(equalTo: ${2:view2}.trailingAnchor, constant: ${5:0}),
+    ${1:view1}.bottomAnchor.constraint(equalTo: ${2:view2}.bottomAnchor, constant: ${6:0})
+])</string>
+    <key>IDECodeSnippetIdentifier</key>
+    <string>uikit-nslayoutconstraint</string>
+    <key>IDECodeSnippetLanguage</key>
+    <string>Xcode.SourceCodeLanguage.Swift</string>
+    <key>IDECodeSnippetSummary</key>
+    <string>Activate NSLayoutConstraint for common anchors</string>
+    <key>IDECodeSnippetTitle</key>
+    <string>NSLayoutConstraint Activate</string>
+    <key>IDECodeSnippetUserSnippet</key>
+    <true/>
+    <key>IDECodeSnippetVersion</key>
+    <integer>2</integer>
+</dict>
+</plist> 

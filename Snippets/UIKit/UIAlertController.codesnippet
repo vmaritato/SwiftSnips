@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>IDECodeSnippetCompletionPrefix</key>
+    <string>alert</string>
+    <key>IDECodeSnippetCompletionScopes</key>
+    <array>
+        <string>All</string>
+    </array>
+    <key>IDECodeSnippetContents</key>
+    <string>let alert = UIAlertController(title: "${1:Title}", message: "${2:Message}", preferredStyle: .alert)
+alert.addAction(UIAlertAction(title: "OK", style: .default, handler: nil))
+present(alert, animated: true, completion: nil)</string>
+    <key>IDECodeSnippetIdentifier</key>
+    <string>uikit-uialertcontroller</string>
+    <key>IDECodeSnippetLanguage</key>
+    <string>Xcode.SourceCodeLanguage.Swift</string>
+    <key>IDECodeSnippetSummary</key>
+    <string>Present a UIAlertController</string>
+    <key>IDECodeSnippetTitle</key>
+    <string>UIAlertController</string>
+    <key>IDECodeSnippetUserSnippet</key>
+    <true/>
+    <key>IDECodeSnippetVersion</key>
+    <integer>2</integer>
+</dict>
+</plist> 

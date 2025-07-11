@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>IDECodeSnippetCompletionPrefix</key>
+    <string>uivclife</string>
+    <key>IDECodeSnippetCompletionScopes</key>
+    <array>
+        <string>All</string>
+    </array>
+    <key>IDECodeSnippetContents</key>
+    <string>override func viewDidLoad() {
+    super.viewDidLoad()
+    ${1:// setup code}
+}
+
+override func viewWillAppear(_ animated: Bool) {
+    super.viewWillAppear(animated)
+    ${2:// code}
+}
+
+override func viewDidAppear(_ animated: Bool) {
+    super.viewDidAppear(animated)
+    ${3:// code}
+}
+
+override func viewWillDisappear(_ animated: Bool) {
+    super.viewWillDisappear(animated)
+    ${4:// code}
+}
+
+override func viewDidDisappear(_ animated: Bool) {
+    super.viewDidDisappear(animated)
+    ${5:// code}
+}</string>
+    <key>IDECodeSnippetIdentifier</key>
+    <string>uikit-uiviewcontrollerlifecycle</string>
+    <key>IDECodeSnippetLanguage</key>
+    <string>Xcode.SourceCodeLanguage.Swift</string>
+    <key>IDECodeSnippetSummary</key>
+    <string>UIViewController lifecycle methods</string>
+    <key>IDECodeSnippetTitle</key>
+    <string>UIViewController Lifecycle</string>
+    <key>IDECodeSnippetUserSnippet</key>
+    <true/>
+    <key>IDECodeSnippetVersion</key>
+    <integer>2</integer>
+</dict>
+</plist> 
