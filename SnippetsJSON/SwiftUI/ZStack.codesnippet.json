@@ -1,0 +1,1 @@
+{"IDECodeSnippetCompletionScopes":["All"],"IDECodeSnippetIdentifier":"swiftui-zstack","IDECodeSnippetVersion":2,"IDECodeSnippetContents":"ZStack {\n    ${1:content}\n}","IDECodeSnippetCompletionPrefix":"zstack","IDECodeSnippetLanguage":"Xcode.SourceCodeLanguage.Swift","IDECodeSnippetTitle":"ZStack","IDECodeSnippetUserSnippet":true,"IDECodeSnippetSummary":"SwiftUI ZStack"}

@@ -1,0 +1,1 @@
+{"IDECodeSnippetCompletionScopes":["All"],"IDECodeSnippetIdentifier":"swiftui-vstack","IDECodeSnippetVersion":2,"IDECodeSnippetContents":"VStack {\n    ${1:content}\n}","IDECodeSnippetCompletionPrefix":"vstack","IDECodeSnippetLanguage":"Xcode.SourceCodeLanguage.Swift","IDECodeSnippetTitle":"VStack","IDECodeSnippetUserSnippet":true,"IDECodeSnippetSummary":"SwiftUI VStack"}

@@ -1,0 +1,1 @@
+{"IDECodeSnippetCompletionScopes":["All"],"IDECodeSnippetIdentifier":"swiftui-hstack","IDECodeSnippetVersion":2,"IDECodeSnippetContents":"HStack {\n    ${1:content}\n}","IDECodeSnippetCompletionPrefix":"hstack","IDECodeSnippetLanguage":"Xcode.SourceCodeLanguage.Swift","IDECodeSnippetTitle":"HStack","IDECodeSnippetUserSnippet":true,"IDECodeSnippetSummary":"SwiftUI HStack"}
