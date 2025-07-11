@@ -33,29 +33,33 @@ To use these snippets in Xcode:
 
 ## 📋 Snippet Summary Table
 
-| Name                        | Trigger    | Description                                 |
-| --------------------------- | ---------- | ------------------------------------------- |
-| ForEach                     | foreach    | SwiftUI ForEach loop                        |
-| TextField                   | textfield  | SwiftUI TextField with binding              |
-| Button                      | button     | SwiftUI Button                              |
-| ViewModifier Struct         | viewmod    | SwiftUI custom ViewModifier struct          |
-| List                        | list       | SwiftUI List                                |
-| NavigationStack             | navstack   | SwiftUI NavigationStack                     |
-| ZStack                      | zstack     | SwiftUI ZStack                              |
-| HStack                      | hstack     | SwiftUI HStack                              |
-| @State Property             | state      | SwiftUI @State property declaration         |
-| VStack                      | vstack     | SwiftUI VStack                              |
-| UIView Subclass             | uiview     | Custom UIView subclass                      |
-| UIAlertController           | alert      | Present a UIAlertController                 |
-| UIViewController Lifecycle  | uivclife   | UIViewController lifecycle methods          |
-| NSLayoutConstraint Activate | constraint | Activate NSLayoutConstraint for anchors     |
-| UITableViewCell Subclass    | tablecell  | Custom UITableViewCell subclass             |
-| Task (async/await)          | task       | Launch a Task for async/await code          |
-| Async Function              | asyncfunc  | Declare an async/throws function            |
-| try await                   | tryawait   | Use try await with async function           |
-| Protocol                    | protocol   | Swift protocol declaration                  |
-| Delegate Pattern            | delegate   | Delegate pattern: protocol, property, usage |
-| ViewModel (MVVM)            | viewmodel  | MVVM ViewModel class with @Published prop   |
+| Name                        | Trigger    | Description                                  |
+| --------------------------- | ---------- | -------------------------------------------- |
+| ForEach                     | foreach    | SwiftUI ForEach loop                         |
+| TextField                   | textfield  | SwiftUI TextField with binding               |
+| Button                      | button     | SwiftUI Button                               |
+| ViewModifier Struct         | viewmod    | SwiftUI custom ViewModifier struct           |
+| List                        | list       | SwiftUI List                                 |
+| NavigationStack             | navstack   | SwiftUI NavigationStack                      |
+| ZStack                      | zstack     | SwiftUI ZStack                               |
+| HStack                      | hstack     | SwiftUI HStack                               |
+| @State Property             | state      | SwiftUI @State property declaration          |
+| VStack                      | vstack     | SwiftUI VStack                               |
+| UIView Subclass             | uiview     | Custom UIView subclass                       |
+| UIAlertController           | alert      | Present a UIAlertController                  |
+| UIViewController Lifecycle  | uivclife   | UIViewController lifecycle methods           |
+| NSLayoutConstraint Activate | constraint | Activate NSLayoutConstraint for anchors      |
+| UITableViewCell Subclass    | tablecell  | Custom UITableViewCell subclass              |
+| Task (async/await)          | task       | Launch a Task for async/await code           |
+| Async Function              | asyncfunc  | Declare an async/throws function             |
+| try await                   | tryawait   | Use try await with async function            |
+| Protocol                    | protocol   | Swift protocol declaration                   |
+| Delegate Pattern            | delegate   | Delegate pattern: protocol, property, usage  |
+| ViewModel (MVVM)            | viewmodel  | MVVM ViewModel class with @Published prop    |
+| SwiftPM Package             | spm        | Swift Package Manager dependency declaration |
+| Codable Struct              | codable    | Codable struct declaration                   |
+| Decodable Struct            | decodable  | Decodable struct declaration                 |
+| Keychain Save               | keychain   | Save a string to Keychain using Keychain     |
 
 ## 🤝 Contributing
 
