@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>IDECodeSnippetCompletionPrefix</key>
+    <string>viewmodel</string>
+    <key>IDECodeSnippetCompletionScopes</key>
+    <array>
+        <string>All</string>
+    </array>
+    <key>IDECodeSnippetContents</key>
+    <string>class ${1:ViewModel}: ObservableObject {
+    @Published var ${2:property}: ${3:Type}
+    
+    init(${4:params}) {
+        ${5:// init code}
+    }
+    
+    func ${6:action}() {
+        ${7:// action code}
+    }
+}</string>
+    <key>IDECodeSnippetIdentifier</key>
+    <string>arch-viewmodel</string>
+    <key>IDECodeSnippetLanguage</key>
+    <string>Xcode.SourceCodeLanguage.Swift</string>
+    <key>IDECodeSnippetSummary</key>
+    <string>MVVM ViewModel class with @Published property</string>
+    <key>IDECodeSnippetTitle</key>
+    <string>ViewModel (MVVM)</string>
+    <key>IDECodeSnippetUserSnippet</key>
+    <true/>
+    <key>IDECodeSnippetVersion</key>
+    <integer>2</integer>
+</dict>
+</plist> 
