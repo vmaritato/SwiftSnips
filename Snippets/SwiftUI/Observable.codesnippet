@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+    <key>IDECodeSnippetCompletionPrefix</key>
+    <string>observable</string>
+    <key>IDECodeSnippetCompletionScopes</key>
+    <array>
+        <string>All</string>
+    </array>
+    <key>IDECodeSnippetContents</key>
+    <string>class ${1:MyObservable}: ObservableObject {
+    @Published var ${2:property}: ${3:Type}
+    
+    init(${2:property}: ${3:Type}) {
+        self.${2:property} = ${2:property}
+    }
+}</string>
+    <key>IDECodeSnippetIdentifier</key>
+    <string>swiftui-observableobject</string>
+    <key>IDECodeSnippetLanguage</key>
+    <string>Xcode.SourceCodeLanguage.Swift</string>
+    <key>IDECodeSnippetSummary</key>
+    <string>ObservableObject class for SwiftUI</string>
+    <key>IDECodeSnippetTitle</key>
+    <string>ObservableObject</string>
+    <key>IDECodeSnippetUserSnippet</key>
+    <true/>
+    <key>IDECodeSnippetVersion</key>
+    <integer>2</integer>
+</dict>
+</plist> 
