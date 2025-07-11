@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0"?>
+<dict>
+    <key>IDECodeSnippetCompletionPrefix</key>
+    <string>foreach</string>
+    <key>IDECodeSnippetCompletionScopes</key>
+    <array>
+        <string>All</string>
+    </array>
+    <key>IDECodeSnippetContents</key>
+    <string>ForEach(${1:items}, id: \.${2:id}) { item in
+    ${3:content}
+}</string>
+    <key>IDECodeSnippetIdentifier</key>
+    <string>swiftui-foreach</string>
+    <key>IDECodeSnippetLanguage</key>
+    <string>Xcode.SourceCodeLanguage.Swift</string>
+    <key>IDECodeSnippetSummary</key>
+    <string>SwiftUI ForEach loop</string>
+    <key>IDECodeSnippetTitle</key>
+    <string>ForEach</string>
+    <key>IDECodeSnippetUserSnippet</key>
+    <true/>
+    <key>IDECodeSnippetVersion</key>
+    <integer>2</integer>
+</dict>
+</plist> 
